@@ -297,7 +297,7 @@ exchange.setProperty("camel.client.customtags", customTags);
 
 
 [[camel-zipkin-camel-zipin-starter]]
-== camel-zipin-starter
+== camel-zipkin-starter
 
 If you are using Spring Boot then you can add
 the `camel-zipkin-starter` dependency, and turn on zipkin by annotating
